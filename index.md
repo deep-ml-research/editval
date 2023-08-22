@@ -3,9 +3,9 @@ layout: default
 title: EDITVAL 
 description:  Benchmarking Text-Guided Image Editing Methods
 
-show_buttons: false
+show_buttons: true
 
-repository_url: https://github.com/Samyadeep/editbench/tree/main
+repository_url: https://github.com/deep-ml-research/editval_code
 ---
 
 # Overview
